@@ -1,0 +1,16 @@
+
+
+*************************************** Requirements ***********************************************
+
+
+
+## Technoologies Used -
+1. XAMP (Version) : xampp-windows-x64-8.0.0-0-VS16-installer
+2. php (Version) :
+3. MySQL (Version) :
+4. HTML5
+5. CSS3
+6. Git & Github (Version Control System)
+
+
+### Make sure you have above Tech installed on your device before running
