@@ -6,8 +6,8 @@
 
 ## Technoologies Used -
 1. XAMP (Version) : xampp-windows-x64-8.0.0-0-VS16-installer
-2. php (Version) :
-3. MySQL (Version) :
+2. php (Version) : 8.0.0
+3. MySQL (Version) : 15.1 Distrib 10.4.17-MariaDB
 4. HTML5
 5. CSS3
 6. Git & Github (Version Control System)
