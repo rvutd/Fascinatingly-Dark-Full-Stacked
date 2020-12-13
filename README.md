@@ -7,6 +7,8 @@ User's can contact with company through a Contact Form.
 
 ## Technologies Used
 Project is created with:
+* PHP (Back-End)
+* Apache Service (Hosting & Server)
 * HTML5 (Structuring)
 * CSS3 (Styling)
 * Netlify (Hosting)
